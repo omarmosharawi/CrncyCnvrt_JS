@@ -25,12 +25,12 @@
 - To get a new API key, you can sign up for a free or paid plan on the ExchangeRate-API website.
 - You will receive an email with your API key and instructions on how to use it.
 
-# To update the API key in the app, you need to open the script.js file and find the following line:
-- let apiKey = "your-api-key";
-- const apiURL = "your-api-url";
-- fetch('your-api-url', options)
-- let url = `your-api-url${fromCurrency.value}&symbols=${toCurrency.value}&app_id=${apiKey}`;
+# To update the API in the app, you need to open the script.js file and find the following line:
 - Replace the value of the variables with your new API.
+- `let apiKey = "your-api-key";`
+- `const apiURL = "your-api-url";`
+- `fetch('your-api-url', options)`
+- `let url = `your-api-url${fromCurrency.value}&symbols=${toCurrency.value}&app_id=${apiKey}`;`
 - Save the file and reload the app.
 - You should be able to use the app with the new API.
 
