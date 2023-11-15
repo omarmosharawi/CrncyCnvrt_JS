@@ -1,4 +1,4 @@
-# Currency Converter app
+# Currency Converter
 
 - This is a currency converter app that uses JavaScript, HTML, and CSS.
 - It allows users to convert between different currencies using the latest exchange rates from ExchangeRate-API.
