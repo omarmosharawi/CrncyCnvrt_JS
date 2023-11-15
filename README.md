@@ -16,7 +16,7 @@
 - Select the currencies you want to convert from and to, and enter the amount you want to convert.
 - Enjoy the app!
 
-## How to change the API key
+## How to change the API
 
 - This app uses the ExchangeRate-API to fetch the latest exchange rates.
 - You need a valid API key to use this service.
@@ -24,8 +24,7 @@
 - If that happens, you will need to get a new API key and update it in the app.
 - To get a new API key, you can sign up for a free or paid plan on the ExchangeRate-API website.
 - You will receive an email with your API key and instructions on how to use it.
-
-# To update the API in the app, you need to open the script.js file and find the following line:
+- To update the API in the app, you need to open the script.js file.
 - Replace the value of the variables with your new API.
 - `let apiKey = "your-api-key";`
 - `const apiURL = "your-api-url";`
