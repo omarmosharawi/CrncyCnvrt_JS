@@ -30,7 +30,7 @@
 - `let apiKey = "your-api-key";`
 - `const apiURL = "your-api-url";`
 - `fetch('your-api-url', options)`
-- `let url = `your-api-url${fromCurrency.value}&symbols=${toCurrency.value}&app_id=${apiKey}`;`
+- `let url = your-api-url${fromCurrency.value}&symbols=${toCurrency.value}&app_id=${apiKey};`
 - Save the file and reload the app.
 - You should be able to use the app with the new API.
 
